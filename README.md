@@ -1,6 +1,6 @@
 # 🌐 PMOS-stack - 产品经理AI知识体系
 
-&gt; 专为产品经理打造的AI知识传授平台，帮助PM在AI时代掌握核心竞争力
+> 专为产品经理打造的AI知识传授平台，帮助PM在AI时代掌握核心竞争力
 
 ---
 
@@ -148,9 +148,9 @@
 ## 📞 联系我们
 
 - 微信群：PMOS-stack社区
-- 邮箱：contact@pmos-stack.com
+- 邮箱：linyuqi0923@outlook.com
 - GitHub：https://github.com/linyuqi0923-beep/PMOS-stack
 
 ---
 
-&gt; 💬 **一句话总结**：PMOS-stack 是产品经理的AI加油站，让你在AI时代不掉队，甚至领跑！
+> 💬 **一句话总结**：PMOS-stack 是产品经理的AI加油站，让你在AI时代不掉队，甚至领跑！
